@@ -48,7 +48,7 @@ chrome.runtime.onMessage.addListener(
 		}
 	});
 	
-if(initStorage("v0.8.9", true)) {
+if(initStorage("v0.8.10", true)) {
 	// v0.7
 	initStorage("popupcolor", "blue");
 	initStorage("highlight", true);
@@ -80,6 +80,9 @@ if(initStorage("v0.8.9", true)) {
 	initStorage("minihelp", "true");
 	initStorage("disablekeys", "false");
 	initStorage("kanjicomponents", "true");
+
+	// v0.8.10
+	initStorage("language", "english");	
 
 	for (i = 0; i*2 < rcxDict.prototype.numList.length; i++) {
 		initStorage(rcxDict.prototype.numList[i*2], "true")
@@ -116,6 +119,9 @@ rcxMain.config.minihelp = localStorage["minihelp"];
 rcxMain.config.disablekeys = localStorage["disablekeys"];
 rcxMain.config.kanjicomponents = localStorage["kanjicomponents"];
 rcxMain.config.kanjiinfo = new Array(rcxDict.prototype.numList.length/2);
+
+rcxMain.config.language = localStorage["language"];
+
 for (i = 0; i*2 < rcxDict.prototype.numList.length; i++) {
 	rcxMain.config.kanjiinfo[i] = localStorage[rcxDict.prototype.numList[i*2]];
 }

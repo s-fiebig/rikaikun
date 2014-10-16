@@ -103,8 +103,8 @@ rcxDict.prototype = {
 	loadDictionary: function() {
 		/* this.wordDict = this.fileRead(rcxWordDict.datURI, rcxWordDict.datCharset);
 		this.wordIndex = this.fileRead(rcxWordDict.idxURI, rcxWordDict.idxCharset); */
-		this.wordDict = this.fileRead(chrome.extension.getURL("data/dict.dat"));
-		this.wordIndex = this.fileRead(chrome.extension.getURL("data/dict.idx"));
+		this.wordDict = this.fileRead(chrome.extension.getURL("data/" + rcxMain.config.language + "_" + "dict.dat"));
+		this.wordIndex = this.fileRead(chrome.extension.getURL("data/" + rcxMain.config.language + "_" + "dict.idx"));
 		this.kanjiData = this.fileRead(chrome.extension.getURL("data/kanji.dat"), 'UTF-8');
 		this.radData = this.fileReadArray(chrome.extension.getURL("data/radicals.dat"), 'UTF-8'); 
 

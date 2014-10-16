@@ -60,7 +60,14 @@ function fillVals() {
 	}
 
 	document.optform.maxClipCopyEntries.value = parseInt(localStorage['maxClipCopyEntries']);
-
+	
+	store = localStorage['language'];
+	for(var i=0; i < document.optform.language.length; ++i) {
+		if(document.optform.language[i].value == store) {
+			document.optform.language[i].selected = true;
+			break;
+		}
+	}
 }
 
 function getVals() {
@@ -83,6 +90,7 @@ function getVals() {
 	localStorage['copySeparator'] = document.optform.copySeparator.value;
 	localStorage['maxClipCopyEntries'] = document.optform.maxClipCopyEntries.value;
 
+	localStorage['language'] = document.optform.language.value;
 
 	chrome.extension.getBackgroundPage().rcxMain.config.css = localStorage["popupcolor"];
 	chrome.extension.getBackgroundPage().rcxMain.config.highlight = localStorage["highlight"];
@@ -96,7 +104,14 @@ function getVals() {
 	chrome.extension.getBackgroundPage().rcxMain.config.copySeparator = localStorage["copySeparator"];
 	chrome.extension.getBackgroundPage().rcxMain.config.maxClipCopyEntries = localStorage["maxClipCopyEntries"];
 
+	chrome.extension.getBackgroundPage().rcxMain.config.language = localStorage["language"];
 }
+
+function resetDicts() {
+	chrome.extension.getBackgroundPage().rcxMain.reloadDictionary();
+}
+
+
 window.onload = fillVals;
 
 /*function clicktab(tab) {
@@ -109,4 +124,5 @@ window.onload = fillVals;
 
 
 document.querySelector('#submit').addEventListener('click', getVals);
+document.querySelector('#submit').addEventListener('click', resetDicts);
 

@@ -1,0 +1,291 @@
+﻿german_dict.dat (EDICT2) stammt von http://www.wadoku.de/wiki/display/WAD/Downloads+und+Links
+
+Da die Daten auf www.wadoku.de sowohl von Ulrich Apel wir auch von freiwilligen Mitarbeitern der wadoku.de-Community kommen, gilt eine doppelte Lizenz:
+
+A. Für die Lizenz der aktuellen Wadoku.de-Daten siehe: Wadoku.de-Daten Lizenz
+B. Anbei die ursprüngliche WaDoku-Datei-Lizenz von Ulrich Apel
+
+A. 
+1. Einleitung
+
+Die auf www.wadoku.de zur Verfügung gestellten Wörterbuchdaten beruhen auf dem von Ulrich Apel initiierten und von ihm und freiwilligen Mitarbeitern getragenen Projekt zur Erstellung eines frei verfügbaren japanisch-deutschen Wörterbuches in elektronischer Form. Dieses Wörterbuch ist gedacht als stets aktuelles, zunehmend verlässliches und grundlegendes Nachschlagewerk für die japanische Sprache der Gegenwart.
+
+Diese Lizenz für die Daten von www.wadoku.de ergänzt die Wadoku-Datei-Lizenz von Ulrich Apel vom 20. März 2001.
+
+Das Urheberrecht für diese Daten liegt bei Ulrich Apel und weiteren Miturhebern (Siehe Punkt 3).
+
+2. Worauf bezieht sich diese Lizenz?
+
+Diese Lizenz bezieht sich auf die Wörterbuch-Daten, die auf der Webseite www.wadoku.de und ihren Unterseiten zur Verfügung gestellt werden. Die gesamten Wadoku-Daten wurden mit dem Willen zur Schaffung eines gemeinsamen Werkes gesammelt. Die Wadoku-Daten werden daher als ein einziges Werk mehrer Miturheber betrachtet.
+
+Die initiale Datendatei stammt ursprünglich von Herrn Ulrich Apel, der damit Haupturheber der Wadoku-Daten ist.
+
+Diese Wadoku-Datenlizenz bezieht sich zudem auf jede Form der Mitarbeit an den Wadoku-Daten offline sowie online zum Beispiel unter der Internetseite www.wadoku.de. Mit Mitarbeit sind sowohl Neueinträge wie auch Korrekturen oder Ergänzungen bestehender Einträge gemeint.
+
+All die oben genannten Daten und erstellten Neueinträge sowie Korrekturen werden im Folgenden Wadoku-Daten genannt und als ein einheitliches Werk angesehen.
+
+3. Urheberrechte
+
+Gemäß dem deutschen Urhebergesetz sind Urheberrechte Persönlichkeitsrechte und nicht übertragbar (§ 29 Satz 1 UrhG). Auf die urheberpersönlichkeitsrechtliche Bestandteile des Urheberrechtes kann auch unter Miturhebern nicht verzichtet werden. Jeder, der schöpferisch an den Wadoku-Daten mitarbeitet, wird automatisch zum Miturheber der Wadoku-Daten und Teil der gesetzlich begründeten Miturhebergemeinschaft (§ 8 Satz 1). Auf den quantitativen Umfang der Beteiligung der einzelnen Miturheber aufgrund der von ihnen geleisteten Arbeit, d.h. Umfang und Größe der Beiträge, kommt es für die Begründung der Miturheberschaft nicht an. Verwertungsrechte sind wie das Urheberrecht nicht übertragbar, lediglich die Einräumung von Nutzungsrechten ist möglich.
+
+4. Nutzungsrechte
+
+Jeder Miturheber hat Verwertungsbefugnisse, die er einem Dritten in Gestalt von Nutzungsrechten überlassen kann (§ 31 UrhG).
+
+Für jede Mitarbeit bei den Wadoku-Daten gilt:
+
+jede Mitarbeit wird als freiwillige Mitarbeit bei der Webseite www.wadoku.de und als Spende an den Verein Wadoku e.V. angesehen
+jeder Mitarbeiter erteilt der Webseite www.wadoku.de und dem Verein Wadoku e.V. uneingeschränktes nicht-ausschließliches Nutzungsrecht für seine Bearbeitungen und Neueinträge, und seine unbefristete Zustimmung zur Veröffentlichung und Vervielfältigung seines Werkes gemäß dieser Lizenz.
+jeder Mitarbeiter erlaubt die redaktionelle Bearbeitung seines Werkes durch andere, wie z.B. Veränderung oder Löschung eines Eintrages durch Editoren.
+jeder Mitarbeiter verzichtet auf die namentliche Nennung seiner Urheberschaft (vorallem zum Zwecke einer kompakten Darstellung bei mehreren teilweise anonymen Miturhebern).
+jeder Mitarbeiter überträgt der Webseite www.wadoku.de sowie dem Verein Wadoku e.V. das Recht, das Nutzungsrecht seines Werkes gemäß Vereinsziel auch an Dritte weiter zu lizenzieren. Auf gesetzliche Ansprüche, die sich aus dieser Weiterlizenzierung ergeben, wird zugunsten des Vereines Wadoku e.V. verzichtet.
+5. Nutzungsbedinungen
+
+5.1 Allgemeine Nutzung (online wie offline)
+Jede, jeder und jede Organisation,
+
+darf die Wadoku-Daten für persönliche Zwecke, wie Unterstützung beim Lesen von Texten, Forschung, Übersetzungen usw. verwenden.
+darf ein Teil der Daten an andere Personen oder Organisationen in Form von geschriebenen Texten, E-Mails etc. unter Verweis auf diese Lizenz weitergeben.
+5.2 Offline-Nutzung der Downloads
+Folgende Nutzungsbedingungen gelten für alle angebotenen Wadoku-Daten Downloads: Jede, jeder und jede Organisation, erhält die Erlaubnis:
+
+unveränderte Kopien der angebotenen Wadoku-Daten zu erstellen und diese zu verteilen, wenn sie zusammen mit dieser Lizenz ausgeliefert werden. Eine Verteilung darf zu keiner finanziellen Vergütung führen, die die Kosten des Verteilungsmediums übersteigt.
+Kopien der Wadoku-Daten auf WWW- und ftp-Server zu legen, um sie weiterzuverteilen, vorausgesetzt, sie unterliegen den oben genannten Bedingungen.
+Auszüge und Untergruppen der Wadoku-Daten in anderen Formaten und Codierungen, die Material der Wadoku-Daten enthalten, zu erstellen und zu verteilen, wenn die Bedingungen erfüllt werden, die für unveränderte Kopien gelten.
+5.3 Einbindung in freie Software und Server-Systeme
+Jede, jeder und jede Organisation erhält die Erlaubnis:
+
+die Wadoku-Daten als Teil von Software zu verteilen, die selbst kostenlos verteilt wird - unter der Voraussetzung, dass die Bedingungen für kostenlose Verteilung, wie sie oben beschrieben werden, eingehalten werden und unter der Voraussetzung, dass der Software-Dokumentation eine vollständige Erklärung ueber die Herkunft der Daten beigefügt wird.
+die Wadoku-Daten oder Teile davon in WWW-Server und andere Server einzubinden, die ohne Bezahlung und Werbung betrieben werden, unter den Voraussetzungen, die für die oben beschriebene kostenlose Verteilung gelten. Weiter muss ein vollständiger Hinweis auf die Herkunft der Daten auf dem Server angezeigt werden und auf der ersten Seite des entsprechenden Servers muss ein Link zur vollständigen Lizenz und der Urheberrechts-Erklärung zugänglich sein, sowie ein sichtbarer Link auf www.wadoku.de unterhalb des Sucheingabefeldes.
+5.6 Linux-Betriebssystem
+Erlaubnis wird erteilt, die Wadoku-Daten in kostenlose Distributionen des GNU/Linux-Betriebssystemes und dazugehörige Utilities und Pakete, wie SuSe, Red Hat, Debian einzubinden, unter der Voraussetzung, dass die Bedingungen für "Einbindung in freie Software und Server-Systeme" erfüllt werden. In anderen Worten: kommerzielle Linux-Distributionen werden so betrachtet, dass sie die Bedingung einer "Gebühr, die die Kosten des Verteilungsmediums nicht übersteigt" erfüllen.
+
+5.7 Genehmigungspflichtige Verbreitung und Nutzung
+Alle anderen Nutzungs- und Verteilungsarten der Wadoku-Daten bedürfen der ausdrücklichen schriftlichen Genehmigung von Ulrich Apel und Wadoku e.V., die jährlich wieder neu bestätigt werden muss. Ohne diese gemeinschaftliche Genehmigung durch Ulrich Apel und Wadoku e.V. dürfen die Wadoku-Daten
+
+nicht in Software-Pakete eingebunden werden, die kommerziell verkauft werden oder ausschließlich in einer Firma verwendet werden.
+nicht über WWW-Server erhältlich sein, für deren Benutzung Gebühren erhoben werden oder die kommerzielle Werbung verwenden.
+nicht als Wörterbuch gedruckt oder auf anderen Medien wie CD-ROM veröffentlicht werden
+nicht als Bestandteil einer Shareware-Sofware verwendet werden
+6. Haftungsausschluss
+Die Wadoku-Daten wurden mit möglichst großer Sorgfalt erstellt und sind zum großen Teil mehrmals überprüft. Trotzdem übernehmen Ulrich Apel und der Verein Wadoku e.V. keinerlei Gewähr für die Richtigkeit, Aktualität, Vollständigkeit oder Qualität der bereitgestellten Informationen. Die Geltendmachung von Ansprüchen jeglicher Art ist ausgeschlossen.
+
+Externe Hinweise:
+Informationen im Internet zur Urheberschaft:
+
+Gesetz über Urheberrecht und verwandte Schutzrechte
+Urheberrechtswahrnehmungsgesetz
+Wikipedia: Gesetz über Urheberrecht und verwandte Schutzrechte
+Wikipedia: Urheberrecht
+
+
+B. 
+W a D o k u - D a t e i - L I Z E N Z
+(Copyright (C) 1998-2007 Ulrich APEL)
+
+Version 1.0 (20. Maerz 2001)
+
+Japanisch-deutsche Freeware-Woerterbuchdatei, koordiniert von Ulrich APEL.
+
+* EINLEITUNG
+
+Die WaDoku-Woerterbuchdatei ist Ergebnis eines von Ulrich Apel initiierten
+und von freiwilligen Mitarbeitern getragenes Projektes zur Erstellung eines
+frei verfuegbaren japanisch-deutschen Woerterbuches in elektronischer Form.
+Dieses Woerterbuch ist gedacht als stets aktuelles, zunehmend verlaessliches
+und grundlegendes Nachschlagewerk fuer die japanische Sprache der Gegenwart.
+
+Die Woerterbuchdatei ist Freeware in der Bedeutung, dass sie - unter
+bestimmten Bedingungen - verwendet und auch weiterverteilt werden darf. Die
+Datei unterliegt jedoch weiterhin dem Copyright und sie ist nicht umsonst!
+Von den Benutzerinnen und Benutzern der Datei wird erwartet, dass sie im
+Rahmen der Verwendung des Woerterbuches zu seiner Verbesserung und seinem
+Ausbau beitragen und den Fortgang des Projektes allgemein entsprechend ihren
+Moeglichkeiten unterstuetzen. Dieses Woerterbuch ist nur so gut wie seine
+Benutzer. Aktualitaet, Verlaesslichkeit und ein Umfang, mit dem man immer
+besser arbeiten kann, laesst sich nur durch Mithilfe vieler kompetenter
+Mitarbeiter erreichen.
+
+Heute kann kein zu einem bestimmten Zeitpunkt fertiggestelltes Woerterbuch
+mehr den Anspruch auf Gueltigkeit fuer Jahrzehnte erheben. Eine
+Woerterbuch-Datei dieser Art muss staendig aktualisiert und ueberarbeitet
+werden. Die Datei muss nach Moeglichkeit neuen Entwicklungen angepasst
+werden. Niemand kann derzeit vorhersagen, wie die Entwicklung von
+Uebersetzungs-Tools, automatischer Sprachanalyse und Maschinen-Uebesetzung
+weitergehen wird.
+
+Die Koordination dieses Projektes uebernimmt zurzeit Ulrich Apel (E-Mail
+<apel@hus.osaka-u.ac.jp>). Der Fortgang des Projektes wird diskutiert in
+einer eigenen Mailingliste. Um sich in diese Woerterbuch-Mailingliste
+einzuschreiben, muss man eine E-Mail mit dem Text "SUBSCRIBE WADOKU-L" (ohne
+die Anfuehrungszeichen) im Body der E-Mail an den Mailinglisten-Server
+<LISTSERV@LISTSERV.GMD.DE> schreiben. Sollte das nicht klappen, kann auch
+Ulrich Apel die Eintragung uebernehmen.
+
+* WORAUF BEZIEHT SICH DIESE LIZENZ?
+
+Diese Lizenz bezieht sich auf die reinen Daten des WaDoku-Projektes. Die
+wichtigste Verteilungsform des Projektes sind die FileMaker-basierten
+Dateien WaDokuDa.FMR und WaDokuJT.FMR, die mit den
+FileMaker-Runtime-Programmen "WaDokuJT Runtime" bzw. "WaDokuJT.exe"
+verwendet werden koennen.
+
+Die Daten dieser Dateien lassen sich ueber den Dialog "ファイル" (fairu =
+File) => "取り込み／書き出し" (torikomi/kakidashi =
+Datei-Import/Datei-Export) => "レコード書き出し..." (rekoodo kakidashi ... =
+Export der Datensaetze ...) exportieren. Wird die gesamte Datei exportiert,
+so steht in der ersten Zeile bzw. im ersten Datensatz "WaDokuDa:
+japanisch-deutsche Woerterbuch-Datei" und der Copyrighthinweis. In der
+ersten Zeile befinden sich weiter Angaben ueber das Erstellungsdatum der
+aktuellen Datei und die Zahl der Datensaetze zu diesem Zeitpunkt.
+
+Diese Lizenz bezieht sich auf Daten, die aus dieser Datei exportiert oder
+daraus kopiert wurden, sowie auf Dateien, die von auf diese Weise erstellten
+Dateien abgeleitet wurden.
+
+Solche Ableitungen sind z.B. das Online-Woerterbuch
+<http://bunmei7.hus.osaka-u.ac.jp:591/WadokuJT/> oder die Datei
+"WaDokuDA.TXT" der Jamming-Version der Datei. Es gibt weitere Adaptionen
+fuer verschiedene Computer-Systemplattformen und verschiedene
+Anwendungsprogramme. Es wird darauf hingewiesen, dass andere Programme
+eventuell die Moeglichkeiten der Datei nicht voll ausnutzen und die Datei
+fuer die Programme unter Umstaenden nicht optimal geeignet ist.
+
+Die Mutterdatei befindet sich im Besitz von Ulrich Apel. Es gibt einige
+Spiegelungen der Datei, aber die aktuellste Version ist unter der URL
+<http://hus.osaka-u.ac.jp/download.html> erhaeltlich.
+
+Fuer die Runtime-Programm "WaDokuJT Runtime" bzw. "WaDokuJT.exe" gelten
+eigene Lizenzen.
+
+* HAFTUNGSAUSSCHLUSS
+
+Die Veroeffentlichung dieser Datei erfolgt in der Hoffnung, dass sie Ihnen
+von Nutzen sein wird, aber OHNE JEDE GEWAEHRLEISTUNG - sogar ohne die
+implizite Gewaehrleistung der MARKTREIFE oder der EIGNUNG FUER EINEN
+BESTIMMTEN ZWECK.
+
+* BEITRAEGE
+
+Von Benutzerinnen und Benutzern der WaDoku-Datei wird erwartet, dass sie
+sich an der Verbesserung und am Ausbau der Datei beteiligen. Ein deutscher
+Muttersprachler braucht beispielweise nicht unbedingt einen Doktorgrad in
+Japanologie um deutsche Rechtschreibfehler zu korrigieren.
+
+In der Datei WaDokuJT.fmr gibt es fuer neue Eintraege und Korrekturen ein
+eigenes Layout und dazugehoerige Skripte. Bearbeitungen, die auf anderen
+Programmen als der FileMaker-Runtime beruhen, sollen sich so weit wie
+moeglich an Codierung und Feldstruktur des Originals halten.
+
+* VERWENDUNG, KOPIEREN UND VERTEILUNG
+
+a. Allgemeine Erlaubnis
+
+Jede, jeder und jede Organisation, die bzw. der sich im Besitz einer oben
+beschriebenen Kopie der WaDokuDa-Datei befindet - egal, ob sie bzw. er diese
+Kopie ueber kostenlose Verteilung oder gegen Zahlung erhalten hat -,
+
+i. darf diese Daten fuer persoenliche Zwecke, wie Unterstuetzung beim Lesen
+von Texten, Forschung, Uebersetzungsdienstleistungen usw. verwenden
+
+ii. darf, soweit das nicht unten beschriebenen Einschraenkungen unterliegt,
+Teile und kurze Abschnitte der Datei an andere Personen oder Organisationen
+in Form von geschriebenen Texten, E-Mails etc. weitergeben. Eine solche
+Aktivitaet kann zur Erhebung einer Gebuehr fuehren.
+
+iii. muss sich an die unten beschriebenen Bedingungen fuer die Verteilung
+der Datei halten.
+
+b. Kostenlose Verteilung
+
+Erlaubnis wird erteilt:
+
+i. unveraenderte Kopien der WaDoku-Datei zu erstellen und diese zu
+verteilen, wenn sie zusammen mit dieser Lizenz und den Copyright-Hinweisen
+ausgeliefert werden. Eine Verteilung darf zu keiner finanziellen Verguetung
+fuehren, die die Kosten des Verteilungsmediums uebersteigt.
+
+ii. Kopien der WaDoku-Datei auf WWW- und ftp-Server zu legen, um sie
+weiterzuverteilen, vorausgesetzt, sie unterliegen den oben genannten
+Bedingungen.
+
+iii. Auszuege und Untergruppen der WaDoku-Datei oder Dateien in anderen
+Formaten und Codierungen, die Material der WaDoku-Datei enthalten, zu
+erstellen und zu verteilen, wenn die Bedingungen erfuellt werden, die fuer
+unveraenderte Kopien gelten.
+
+c. Einbindung in freie Software und Server-Systeme
+
+Erlaubnis wird erteilt:
+
+i. die WaDoku-Datei als Teil von Software zu verteilen, die selbst
+kostenlos verteilt wird - unter der Voraussetzung, dass die Bedingungen fuer
+kostenlose Verteilung, wie sie oben beschrieben werden, eingehalten werden
+und unter der Voraussetzung, dass der Software-Dokumentation eine
+vollstaendige Erklaerung ueber die Herkunft der Daten beigefuegt wird.
+
+ii. die WaDoku-Datei oder Teile davon in WWW-Server und andere Server
+einzubinden, die ohne Bezahlung und Werbung betrieben werden, unter den
+Voraussetzungen, die fuer die oben beschriebene kostenlose Verteilung
+gelten. Weiter muss ein vollstaendiger Hinweis auf die Herkunft der Daten
+auf dem Server angezeigt werden und auf der ersten Seite des entsprechenden
+Servers muss ein Link zur vollstaendigen Lizenz und der
+Urheberrechts-Erklaerung zugaenglich sein.
+
+d. Shareware-Software
+
+Erlaubnis wird erteilt, die Datei oder Teile davon auf "Shareware"-Basis
+zu verteilen und dafuer eine Verguetung von nicht mehr als 100$ zu erheben,
+unter folgenden Bedingungen:
+
+i. der Verteiler informiert den Urheberrechtsinhaber, Ulrich Apel, im
+Vorhinein ueber die Veroeffentlichung des Software-Paketes.
+
+ii. der Verteiler beteiligt das WaDoku-Projekt mit 10% der gesamten
+Einnahmen; die Ueberweisung hat alle drei Monate zu erfolgen.
+
+iii. die vollstaendige Lizenz zu den Daten und die Copyrighterklaerung wird
+mit allen Kopien verteilt.
+
+iv. die Herkunft der Daten ist in der Software-Dokumentation vollstaendig
+anerkannt.
+
+e. Kommerzielle WWW-Server
+
+Die Daten duerfen ohne die vorherige Erlaubnis des Urheberrechtsinhabers
+nicht ueber WWW-Server erhaeltlich sein, fuer deren Benutzung Gebuehren
+erhoben werden oder die kommerzielle Werbung verwenden. Eine Erlaubnis wird
+normalerweise erteilt, wenn das WaDoku-Projekt an den Gewinnen beteiligt
+wird.
+
+f. Linux-Betreibssystem
+
+Erlaubnis wird erteilt, die WaDoku-Daten in kostenlose Distributionen des
+GNU/Linux-Betriebssystemes und dazugehoerige Utilities und Pakete, wie SuSe,
+Red Hat, Debian einzubinden, unter der Voraussetzung, dass die Bedingungen
+fuer "Einbindung in freie Software und Server-Systeme" erfuellt werden. In
+anderen Worten, kommerzielle Linux-Distributionen werden so betrachtet, dass
+sie die Bedingung einer "Gebuehr, die die Kosten des Verteilungsmediums
+nicht uebersteigt" erfuellen.
+
+g. kommerzielle Software-Pakete:
+
+Die WaDoku-Daten duerfen nicht in Software-Pakete eingebunden werden, die
+kommerziell verkauft werden oder ausschliesslich in einer Firma verwendet
+werden, wenn das nicht vorher vom Urheberrechtsinhaber erlaubt wurde.
+Normalerweise wird eine nicht exklusive Lizenz, die Daten einzubinden, gegen
+die Entrichtung einer Einmalzahlung oder gegen die Beteiligung an den
+Tantiemen erteilt. Die anderen Bedingungen fuer Shareware gelten auch hier.
+
+h. Gedruckte Woerterbuecher
+
+Der Inhalt der WaDoku-Daten darf ohne die ausdrueckliche Erlaubnis des
+Urheberrechtsinhabers selbst in Teilen nicht auf Papier und anderen Medien
+wie CD-ROM veroeffentlicht werden. Eine etwaige Erlaubnis wird mindestens
+an die Bedingung geknuepft, dass die unter Zuhilfenahme der WaDoku-Datei
+entstandenen Daten und Werke uneingeschraenkt auch dem WaDoku-Projekt zur
+Verfuegung gestellt werden und dass die Herkunft der Daten vollstaendig
+anerkannt wird.
+
+Zu beachten ist, dass in allen Faellen das Hinzufuegen von Material die
+Rechte des Urheberrechtsinhabers in keiner Weise aufhebt oder einschraenkt.

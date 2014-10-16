@@ -157,6 +157,12 @@ var rcxMain = {
 	},
 */
 
+	reloadDictionary: function() {
+		this.dict = null;
+		return this.loadDictionary();
+	},
+
+
 	loadDictionary: function() {
 		if (!this.dict) {
 			/* if (typeof(rcxWordDict) == 'undefined') {
